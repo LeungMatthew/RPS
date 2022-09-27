@@ -1,9 +1,12 @@
 /*
+
+/*
+
 Author: Matthew Leung
 Date  : 09/06/2022
 Rev   : 03
 Notes : Fixed invalid moves
-*/
+
 
 import java.util.Scanner;
 import java.util.Random;
@@ -82,5 +85,6 @@ public class RPS {
 		}
 	}
 }
-}
+*/
+
 
